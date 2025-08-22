@@ -1,9 +1,11 @@
 # Resource Collection
 <sub>Resources and code snippets collected from the web</sub>
 
+[Fonts](fonts/readme.md) -- [Snippets](snippets/readme.md) -- [Icons](icons/readme.md) -- [Codepen Edits](codepen-edits/readme.md)
 > Feel free to use at your own risk - code snippets may or may not be correct. <br>
 > This is mostly a compilation for my own personal use. <br>
 > Not everything is listed, and this is constantly growing. <br>
+<br>
 
 <sup>This repo began as a personal resource for my own Project.</sup>
 <br>
