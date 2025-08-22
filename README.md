@@ -1,7 +1,7 @@
-# resource-collection
-Resources and code snippets collected from the web
+# Resource Collection
+<sub>Resources and code snippets collected from the web</sub>
 
-feel free to use at your own risk - code snippets may or may not be correct. this is mostly a compilation for my own personal use.
+Feel free to use at your own risk - code snippets may or may not be correct. this is mostly a compilation for my own personal use.
 
 ## CSS Links
 <a href="css-tricks.com">CSS Tricks Blog</a><br>
