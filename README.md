@@ -6,10 +6,12 @@
 > Not everything is listed, and this is constantly growing. <br>
 
 <sup>This repo began as a personal resource for my own Project.</sup>
+<br>
 
 > [!TIP]  
 > <a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">Github Markdown Syntax</a><br>
 
+<br>
 
 ## CSS Links
 <a href="css-tricks.com">CSS Tricks Blog</a><br>
@@ -22,14 +24,16 @@
 
 
 # Jekyll Themes for Public
-<a href="https://hydejack.com/">Hydejack Theme</a><br>
+<a href="https://hydejack.com/">Hydejack Theme</a><br>  
 
 
+<br>
 
 ## HTML & JS
-<a href="https://dev.to/amolsasane_/stop-using-for-everything-semantic-html-to-the-rescue-2p4c">dev.to article</a>
+<a href="https://dev.to/amolsasane_/stop-using-for-everything-semantic-html-to-the-rescue-2p4c">dev.to article</a>  
 
-
+  
+<br> 
 
 ## Templates & Components
 <a href="https://github.com/bradtraversy/design-resources-for-developers">BradTravers Github</a><br>
@@ -43,12 +47,13 @@
 <a href="https://ui.shadcn.com">Shadcn</a><br>
 <a href="https://themewagon.com/theme-price/free/">Themewagon</a><br>
 <a href="https://codestitch.app">Codestitch</a><br>
-<a href="https://www.tooplate.com">Toolplate</a><br>
+<a href="https://www.tooplate.com">Toolplate</a><br>  
 
 
+<br>
 
 ## Generators & AI
-<a href="https://css-generators.com">CSS Generators</a><br>
+<a href="https://css-generators.com">CSS Generators</a><br>  
 
 
 
