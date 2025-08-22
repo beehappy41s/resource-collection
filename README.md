@@ -1,7 +1,11 @@
 # Resource Collection
 <sub>Resources and code snippets collected from the web</sub>
 
-Feel free to use at your own risk - code snippets may or may not be correct. this is mostly a compilation for my own personal use.
+> Feel free to use at your own risk - code snippets may or may not be correct. <br>
+> This is mostly a compilation for my own personal use. <br>
+> Not everything is listed, and this is constantly growing. <br>
+
+<sup>This repo began as a personal resource for my own Project.</sup>
 
 ## CSS Links
 <a href="css-tricks.com">CSS Tricks Blog</a><br>
@@ -13,7 +17,8 @@ Feel free to use at your own risk - code snippets may or may not be correct. thi
 <a href=""></a><br>
 
 
-
+# Jekyll Themes for Public
+<a href="https://hydejack.com/">Hydejack Theme</a><br>
 
 
 ## HTML & JS
