@@ -6,6 +6,9 @@
 > Not everything is listed, and this is constantly growing. <br>
 
 <sup>This repo began as a personal resource for my own Project.</sup>
+[!TIP]
+> <a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">Github Markdown Syntax</a><br>
+
 
 ## CSS Links
 <a href="css-tricks.com">CSS Tricks Blog</a><br>
