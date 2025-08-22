@@ -1,0 +1,15 @@
+
+/* Google Fonts Import */
+@import url('https://fonts.googleapis.com/css2?family=Amarante&family=Faustina:ital,wght@0,300..800;1,300..800&family=Oranienbaum&family=Quintessential&family=Yuji+Syuku&display=swap');
+
+/* Main CSS with Body and Header Styles */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+/* Parallax Effect */
+
