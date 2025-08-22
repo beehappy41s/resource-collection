@@ -4,3 +4,7 @@ plugins:
 remote_theme: pages-themes/merlot@v0.2.0    
 title: bee happy's resource collection
 description: various coding resources for public and private use compiled over time and stored here for learning, experimentation, and easy access.
+show-downloads: true
+show-external-links: true
+show-external-links-in-new-tab: true
+show-downloads-in-new-tab: true
