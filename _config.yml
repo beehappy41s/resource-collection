@@ -1,0 +1,5 @@
+plugins:
+  - jekyll-remote-theme
+remote_theme: handiman/jekyll-theme-gnap     
+title: bee happy's resource collection
+description: various coding resources for public and private use compiled over time and stored here for learning, experimentation, and easy access.
