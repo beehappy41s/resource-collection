@@ -21,8 +21,11 @@
 <a href="https://hydejack.com/">Hydejack Theme</a><br>
 
 
+
 ## HTML & JS
 <a href="https://dev.to/amolsasane_/stop-using-for-everything-semantic-html-to-the-rescue-2p4c">dev.to article</a>
+
+
 
 ## Templates & Components
 <a href="https://github.com/bradtraversy/design-resources-for-developers">BradTravers Github</a><br>
@@ -39,8 +42,11 @@
 <a href="https://www.tooplate.com">Toolplate</a><br>
 
 
+
 ## Generators & AI
 <a href="https://css-generators.com">CSS Generators</a><br>
+
+
 
 ## SVG, Icons & Images
 <a href="https://www.flaticon.com/">FlatIcon</a><br>
